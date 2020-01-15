@@ -22,7 +22,7 @@ def binarySearch(arr, left, right, item):
 	# was not present 
 	return -1
 
-# create an unsorted  list 
+# create a list 
 arr = list(map(str,input("Enter numbers to create a list: ").strip().split())) 
 
 item = input("Enter item to search: ")
