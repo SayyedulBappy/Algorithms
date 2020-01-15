@@ -7,7 +7,7 @@ def LinearSearch(list,item):
         else:
             return -1
 
-# create an unsorted  list 
+# create a list 
 inputList = list(map(int,input("Enter numbers to create a list: ").strip().split())) 
 
 # Search
